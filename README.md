@@ -1,4 +1,4 @@
 # campaign-monitor-test
 
 to run:
-node helloworld.js
+node test.js
